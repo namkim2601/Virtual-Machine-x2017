@@ -1,0 +1,3 @@
+FUNC LABEL 0
+    CAL REG 0
+    RET

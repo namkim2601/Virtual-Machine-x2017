@@ -1,0 +1,5 @@
+FUNC LABEL 0
+    MOV REG 0 VAL 8
+    MOV STK A REG 0
+    EQU STK A
+    RET

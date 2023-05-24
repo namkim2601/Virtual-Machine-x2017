@@ -1,0 +1,3 @@
+FUNC LABEL 0
+    PRINT VAL 8
+    RET

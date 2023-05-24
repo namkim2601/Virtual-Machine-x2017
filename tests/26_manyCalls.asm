@@ -1,0 +1,17 @@
+FUNC LABEL 0
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    CAL VAL 7
+    PRINT REG 0
+    RET
+FUNC LABEL 7
+    MOV REG 1 VAL 10
+    ADD REG 0 REG 1
+    RET

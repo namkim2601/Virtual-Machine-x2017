@@ -1,0 +1,4 @@
+FUNC LABEL 0
+    MOV STK A VAL 8
+    REF VAL 3 STK A
+    RET

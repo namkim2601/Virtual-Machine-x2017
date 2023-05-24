@@ -1,0 +1,10 @@
+FUNC LABEL 0
+    MOV REG 0 VAL 1
+    ADD REG 7 REG 0
+    RET
+    PRINT VAL 1
+    MOV REG 1 VAL 4
+    NOT REG 1
+    ADD REG 7 REG 1
+    PRINT VAL 0
+    RET
